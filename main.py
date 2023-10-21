@@ -18,4 +18,4 @@ async def merhaba(ctx):
 async def heh(ctx, count_heh = 5):
     await ctx.send("he" * count_heh)
 
-bot.run("MTE1NTA2MTIyOTA2NTM0NzEwMg.GQN7SJ.qyplgARfYMaU84mbZPPTQysrBHYjGKyIYrZjd0")
+bot.run("")
